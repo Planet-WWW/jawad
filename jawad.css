@@ -1,0 +1,15 @@
+/*!
+ * Jawad v1.0.0 (http://planet-www.com)
+ * Copyright 2016 Planet WWW Team.
+ * Licensed under GNU.
+ *//*!
+/* Horizontal Lines */
+.hr {height:1px;border:none;background:linear-gradient(to right, transparent, #666, transparent);margin:1em auto;}
+.hr-default {background:linear-gradient(to right, transparent, #999, transparent);}
+.hr-danger {background:linear-gradient(to right, transparent, #f44336, transparent);}
+.hr-success {background:linear-gradient(to right, transparent, #4caf50, transparent);}
+.hr-info {background:linear-gradient(to right, transparent, #2196f3, transparent);}
+.hr-warning {background:linear-gradient(to right, transparent, #ffeb36, transparent);}
+.hr-planet {background:linear-gradient(to right, transparent, #a2c, transparent);}
+.hr-black {background:linear-gradient(to right, transparent, #000, transparent);}
+/* End Horizontal Lines */
